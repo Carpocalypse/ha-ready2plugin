@@ -1,0 +1,18 @@
+{
+  "domain": "ready2plugin",
+  "name": "ready2plugin Stromwächter",
+  "version": "0.1.0",
+  "config_flow": true,
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "documentation": "https://github.com/<DEIN_GITHUB_NAME>/ha-ready2plugin",
+  "issue_tracker": "https://github.com/<DEIN_GITHUB_NAME>/ha-ready2plugin/issues",
+  "codeowners": [
+    "@<DEIN_GITHUB_NAME>"
+  ],
+  "requirements": [],
+  "dependencies": [],
+  "loggers": [
+    "custom_components.ready2plugin"
+  ]
+}

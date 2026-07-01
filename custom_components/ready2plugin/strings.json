@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "ready2plugin Stromwächter",
+        "description": "IP-Adresse und Passwort eingeben.",
+        "data": {
+          "host": "IP-Adresse",
+          "password": "Passwort"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Verbindung fehlgeschlagen",
+      "invalid_auth": "Falsches Passwort",
+      "unknown": "Unbekannter Fehler"
+    },
+    "abort": {
+      "already_configured": "Gerät wurde bereits eingerichtet."
+    }
+  }
+}
