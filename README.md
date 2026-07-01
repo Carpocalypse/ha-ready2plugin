@@ -1,0 +1,1 @@
+# ha-ready2plugin
